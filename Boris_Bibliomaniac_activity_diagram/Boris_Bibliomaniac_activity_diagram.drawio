@@ -119,13 +119,14 @@
         <mxCell id="6wFxL5HSVmzdd2mruH-2-49" value="Read the book" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="644" width="97" height="44.5" as="geometry" />
         </mxCell>
-        <mxCell id="6wFxL5HSVmzdd2mruH-2-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6wFxL5HSVmzdd2mruH-2-50" target="6wFxL5HSVmzdd2mruH-2-20" edge="1">
+        <mxCell id="6wFxL5HSVmzdd2mruH-2-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="439" y="223" as="targetPoint" />
+            <mxPoint x="549" y="230.99857142857135" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="441" y="481" />
-              <mxPoint x="441" y="227" />
+              <mxPoint x="440" y="477.97" />
+              <mxPoint x="440" y="230.97" />
             </Array>
+            <mxPoint x="578.5" y="477.97" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6wFxL5HSVmzdd2mruH-2-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6wFxL5HSVmzdd2mruH-2-50" target="6wFxL5HSVmzdd2mruH-2-64" edge="1">
